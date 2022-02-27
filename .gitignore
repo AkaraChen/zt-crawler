@@ -127,4 +127,4 @@ dist
 .pnp.*
 
 # output File
-output/*.*
+output/*.txt
