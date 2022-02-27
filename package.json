@@ -4,7 +4,8 @@
   "description": "rss crawler && parser",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node src/index.ts"
+    "dev": "ts-node src/index.ts",
+    "test": "ts-node src/test/index.ts"
   },
   "author": "akarachen",
   "license": "ISC",
