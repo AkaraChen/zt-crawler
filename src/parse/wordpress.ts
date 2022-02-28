@@ -4,17 +4,14 @@ import { config } from "../config";
 import { Post } from "../model/post";
 import { add, invalid } from "../util/file";
 import { getImage, removeSlash } from "../util/other";
+import request from "sync-request";
 
-function getCategoryName(blog: Blog, category: number) {
+function getCategoryName(blog: Blog, category: number): string {
   let url = removeSlash(blog.link);
-  let result = "无分类";
-  async () => {
-    axios
-      .get(`${url}/wp-json/wp/v2/categories/${category}`)
-      .then((response) => {
-        result = response.data.name;
-      });
-  };
+  let result: string;
+  let res = request("GET", `${url}/wp-json/wp/v2/categories/${category}`);
+  // @ts-ignore
+  result = JSON.parse(res.body).name;
   return result;
 }
 

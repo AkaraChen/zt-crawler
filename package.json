@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "axios": "^0.26.0",
-    "rss-to-json": "^2.0.2"
+    "rss-to-json": "^2.0.2",
+    "sync-request": "^6.1.0"
   }
 }

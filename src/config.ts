@@ -1,5 +1,5 @@
 const config = {
-  perUser: 1,
+  perUser: 5,
   cunstomImage: "https://some.image",
 };
 
