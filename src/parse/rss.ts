@@ -13,7 +13,20 @@ function get(blog: Blog) {
       feed = await parser.parseURL(blog.link);
       feed.items.forEach((item) => {
         if (index >= config.perUser) return;
-        add(new Post(item.title, item.link));
+        if (item.categories === []) {
+          item.categories = ["无分类"];
+        }
+        if (item.thumbnail === "") {
+          item.thumbnail = config.cunstomImage;
+        }
+        add(
+          new Post(
+            item.title,
+            item.link,
+            !item.categories ? ["无分类"] : item.categories,
+            !item.thumbnail ? config.cunstomImage : item.thumbnail
+          )
+        );
         index++;
       });
     } catch (error) {

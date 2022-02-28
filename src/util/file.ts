@@ -3,7 +3,7 @@ import { Post } from "../model/post";
 import { Blog } from "../model/blog";
 
 function add(post: Post) {
-  let text = `${post.title} ${post.url}\n`;
+  let text = `${post.title} ;; ${post.url} ;; ${post.category} ;; ${post.image}\n`;
   appendFileSync("output/index.txt", text, "utf-8");
 }
 
@@ -12,4 +12,4 @@ function invalid(blog: Blog) {
   appendFileSync("output/invalid.txt", text, "utf-8");
 }
 
-export { add,invalid };
+export { add, invalid };
