@@ -131,3 +131,6 @@ output/*.txt
 
 # vscode code counter plugin
 .VSCodeCounter/*
+
+# idea
+.idea/*

@@ -31,9 +31,6 @@ function get(blog: Blog) {
           } else {
             category = item.category;
           }
-          if (category == undefined) {
-            console.log(item);
-          }
         }
         add(
           new Post(

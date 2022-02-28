@@ -2,25 +2,19 @@
   {
     "name": "Akara's Blog",
     "link": "https://blog.akr.moe/atom.xml",
-    "description": "Hexo",
+    "description": "Hexo RSS",
     "mode": "rss"
+  },
+  {
+    "name": "请叫我旗舰处理器",
+    "link": "https://www.expli.top",
+    "description": "WordPress Mode",
+    "mode": "wp"
   },
   {
     "name": "iks",
     "link": "https://blog.iks.moe/feed/atom",
-    "description": "Typecho",
+    "description": "Typecho RSS",
     "mode": "rss"
-  },
-  {
-    "name": "地皮小木屋",
-    "link": "https://dpii.club/feed",
-    "description": "WordPress",
-    "mode": "rss"
-  },
-  {
-    "name": "魏艾斯笔记",
-    "link": "https://www.vpsss.net",
-    "description":"WordPress Mode",
-    "mode": "wp"
   }
 ]
