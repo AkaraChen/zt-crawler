@@ -1,36 +1,53 @@
-import Parser from "rss-parser";
+import parse from "rss-to-json";
 import { Blog } from "../model/blog";
 import { Post } from "../model/post";
 import { config } from "../config";
 import { add, invalid } from "../util/file";
+import { getImage } from "../util/other";
 
 function get(blog: Blog) {
-  let parser = new Parser();
   let index = 0;
   let feed = null;
   (async () => {
     try {
-      feed = await parser.parseURL(blog.link);
+      feed = await parse(blog.link, {});
+      let link: string;
+      let category: string;
       feed.items.forEach((item) => {
         if (index >= config.perUser) return;
-        if (item.categories === []) {
-          item.categories = ["无分类"];
+        if (item.link instanceof Array) {
+          link = item.link[0].href;
+        } else {
+          link = item.link;
         }
-        if (item.thumbnail === "") {
-          item.thumbnail = config.cunstomImage;
+        if (item.category.length == 0) {
+          category = "无分类";
+        } else {
+          if (item.category instanceof Array) {
+            category =
+              item.category[0] instanceof Object
+                ? item.category[0].term
+                : item.category[0];
+          } else {
+            category = item.category;
+          }
+          if (category == undefined) {
+            console.log(item);
+          }
         }
         add(
           new Post(
             item.title,
-            item.link,
-            !item.categories ? ["无分类"] : item.categories,
-            !item.thumbnail ? config.cunstomImage : item.thumbnail
+            link,
+            category,
+            !item.thumbnail ? getImage(item.content) : item.thumbnail
           )
         );
         index++;
       });
     } catch (error) {
       invalid(blog);
+      throw error;
     }
   })();
 }

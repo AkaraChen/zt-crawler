@@ -2,7 +2,7 @@ class Post {
   constructor(
     titel: string,
     url: string,
-    category: Array<string>,
+    category: string,
     image: string
   ) {
     this.title = titel;
@@ -12,7 +12,7 @@ class Post {
   }
   title: string;
   url: string;
-  category: Array<string>;
+  category: string;
   image: string;
 }
 

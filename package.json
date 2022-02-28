@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "axios": "^0.26.0",
-    "rss-parser": "^3.12.0"
+    "rss-to-json": "^2.0.2"
   }
 }

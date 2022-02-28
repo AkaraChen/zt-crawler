@@ -8,7 +8,7 @@ function add(post: Post) {
 }
 
 function invalid(blog: Blog) {
-  let text = `${blog.name}:${blog.link}\n`;
+  let text = `${blog.name} ;; ${blog.link}\n`;
   appendFileSync("output/invalid.txt", text, "utf-8");
 }
 

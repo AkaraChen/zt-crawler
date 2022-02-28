@@ -5,19 +5,16 @@ import { Post } from "../model/post";
 import { add, invalid } from "../util/file";
 import { getImage, removeSlash } from "../util/other";
 
-function getCategoryName(blog: Blog, category: number): string {
+function getCategoryName(blog: Blog, category: number) {
   let url = removeSlash(blog.link);
-  const result: string = "默认分类";
-  (async () => {
+  let result = "无分类";
+  async () => {
     axios
       .get(`${url}/wp-json/wp/v2/categories/${category}`)
       .then((response) => {
-        return response.data.name;
-      })
-      .catch(() => {
-        invalid(blog);
+        result = response.data.name;
       });
-  })();
+  };
   return result;
 }
 
@@ -31,15 +28,12 @@ function get(blog: Blog) {
         try {
           response.data.forEach((item: any) => {
             if (index >= config.perUser) return;
-            let categoryList: Array<string> = [];
-            item.categories.forEach((category) => {
-              categoryList.push(getCategoryName(blog, category));
-            });
+            let category = getCategoryName(blog, item.categories[0]);
             add(
               new Post(
                 item.title.rendered,
                 item.link,
-                categoryList,
+                category,
                 getImage(item.content.rendered)
               )
             );
