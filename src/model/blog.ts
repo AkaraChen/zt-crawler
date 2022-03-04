@@ -1,9 +1,10 @@
-class Blog {
+interface Blog {
   name: string;
   link: string;
   description: string;
-  mode: string;
-  config: Object;
+  mode: blogMode;
 }
 
-export { Blog }
+type blogMode = "rss" | "wp";
+
+export { Blog };

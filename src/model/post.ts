@@ -1,11 +1,11 @@
 class Post {
   constructor(
-    titel: string,
+    title: string,
     url: string,
     category: string,
     image: string
   ) {
-    this.title = titel;
+    this.title = title;
     this.url = url;
     this.category = category;
     this.image = image;

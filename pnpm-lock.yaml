@@ -1,8 +1,11 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@types/mysql': ^2.15.21
   '@types/node': ^17.0.21
   axios: ^0.26.0
+  dotenv: ^16.0.0
+  mysql: ^2.18.1
   rss-to-json: ^2.0.2
   sync-request: ^6.1.0
   ts-node: ^10.5.0
@@ -10,7 +13,10 @@ specifiers:
   typescript: ^4.5.5
 
 dependencies:
+  '@types/mysql': registry.npmmirror.com/@types/mysql/2.15.21
   axios: registry.npmmirror.com/axios/0.26.0
+  dotenv: registry.npmmirror.com/dotenv/16.0.0
+  mysql: registry.npmmirror.com/mysql/2.18.1
   rss-to-json: registry.npmmirror.com/rss-to-json/2.0.2
   sync-request: registry.npmmirror.com/sync-request/6.1.0
 
@@ -74,6 +80,14 @@ packages:
     resolution: {integrity: sha512-8BSvG1kGm83cyJITQMZSulnl6QV8jqAGreJsc5tPu1Jq0vTSOiY/k24Wx82JRpWwZSqrala6sd5rWi6aNXvqcw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@types/form-data/-/form-data-0.0.33.tgz}
     name: '@types/form-data'
     version: 0.0.33
+    dependencies:
+      '@types/node': registry.npmmirror.com/@types/node/17.0.21
+    dev: false
+
+  registry.npmmirror.com/@types/mysql/2.15.21:
+    resolution: {integrity: sha512-NPotx5CVful7yB+qZbWtXL2fA4e7aEHkihHLjklc6ID8aq7bhguHgeIoC1EmSNTAuCgI6ZXrjt2ZSaXnYX0EUg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@types/mysql/-/mysql-2.15.21.tgz}
+    name: '@types/mysql'
+    version: 2.15.21
     dependencies:
       '@types/node': registry.npmmirror.com/@types/node/17.0.21
     dev: false
@@ -154,6 +168,12 @@ packages:
       - debug
     dev: false
 
+  registry.npmmirror.com/bignumber.js/9.0.0:
+    resolution: {integrity: sha512-t/OYhhJ2SD+YGBQcjY8GzzDHEk9f3nerxjtfa6tlMXfe7frs/WozhvCNoGvpM0P3bNf3Gq5ZRMlGr5f3r4/N8A==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/bignumber.js/-/bignumber.js-9.0.0.tgz}
+    name: bignumber.js
+    version: 9.0.0
+    dev: false
+
   registry.npmmirror.com/buffer-from/1.1.2:
     resolution: {integrity: sha512-E+XQCRwSbaaiChtv6k6Dwgc+bx+Bs6vuKJHHl5kox/BaKbhiXzqQOwK4cO22yElGp2OCmjwVhT3HmxgyPGnJfQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/buffer-from/-/buffer-from-1.1.2.tgz}
     name: buffer-from
@@ -221,6 +241,13 @@ packages:
     version: 4.0.2
     engines: {node: '>=0.3.1'}
     dev: true
+
+  registry.npmmirror.com/dotenv/16.0.0:
+    resolution: {integrity: sha512-qD9WU0MPM4SWLPJy/r2Be+2WgQj8plChsyrCNQzW/0WjvcJQiKQJ9mH3ZgB3fxbUUxgc/11ZJ0Fi5KiimWGz2Q==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/dotenv/-/dotenv-16.0.0.tgz}
+    name: dotenv
+    version: 16.0.0
+    engines: {node: '>=12'}
+    dev: false
 
   registry.npmmirror.com/fast-xml-parser/3.21.1:
     resolution: {integrity: sha512-FTFVjYoBOZTJekiUsawGsSYV9QL0A+zDYCRj7y34IO6Jg+2IMYEtQa+bbictpdpV8dHxXywqU7C0gRDEOFtBFg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/fast-xml-parser/-/fast-xml-parser-3.21.1.tgz}
@@ -347,6 +374,18 @@ packages:
       mime-db: registry.npmmirror.com/mime-db/1.51.0
     dev: false
 
+  registry.npmmirror.com/mysql/2.18.1:
+    resolution: {integrity: sha512-Bca+gk2YWmqp2Uf6k5NFEurwY/0td0cpebAucFpY/3jhrwrVGuxU2uQFCHjU19SJfje0yQvi+rVWdq78hR5lig==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/mysql/-/mysql-2.18.1.tgz}
+    name: mysql
+    version: 2.18.1
+    engines: {node: '>= 0.6'}
+    dependencies:
+      bignumber.js: registry.npmmirror.com/bignumber.js/9.0.0
+      readable-stream: registry.npmmirror.com/readable-stream/2.3.7
+      safe-buffer: registry.npmmirror.com/safe-buffer/5.1.2
+      sqlstring: registry.npmmirror.com/sqlstring/2.3.1
+    dev: false
+
   registry.npmmirror.com/object-inspect/1.12.0:
     resolution: {integrity: sha512-Ho2z80bVIvJloH+YzRmpZVQe87+qASmBUKZDWgx9cu+KDrX2ZDH/3tMy+gXbZETVGs2M8YdxObOh7XAtim9Y0g==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/object-inspect/-/object-inspect-1.12.0.tgz}
     name: object-inspect
@@ -421,6 +460,13 @@ packages:
       call-bind: registry.npmmirror.com/call-bind/1.0.2
       get-intrinsic: registry.npmmirror.com/get-intrinsic/1.1.1
       object-inspect: registry.npmmirror.com/object-inspect/1.12.0
+    dev: false
+
+  registry.npmmirror.com/sqlstring/2.3.1:
+    resolution: {integrity: sha512-ooAzh/7dxIG5+uDik1z/Rd1vli0+38izZhGzSa34FwR7IbelPWCCKSNIl8jlL/F7ERvy8CB2jNeM1E9i9mXMAQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/sqlstring/-/sqlstring-2.3.1.tgz}
+    name: sqlstring
+    version: 2.3.1
+    engines: {node: '>= 0.6'}
     dev: false
 
   registry.npmmirror.com/string_decoder/1.1.1:
