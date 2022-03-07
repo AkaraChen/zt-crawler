@@ -1,8 +1,4 @@
-# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
 name: craw
-
 on:
   schedule:
     - cron: '0 23 * * *'
@@ -10,28 +6,26 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     strategy:
       matrix:
-        node-version: [16.x]
-        
+        node-version: [16.x]  
     steps:
     - name: set up environment variable
       run: |
-        PGHOST = {secrets.PGHOST}
-        PGUSER = {secret.PGUSER}
-        PGDATABASE = {secret.PGDATABASE}
-        PGPASSWORD = {secret.PGPASSWORD}
+        PGHOST = { secrets.PGHOST }
+        PGUSER = { secret.PGUSER }
+        PGDATABASE = { secret.PGDATABASE }
+        PGPASSWORD = { secret.PGPASSWORD }
     - uses: actions/checkout@v2
-    - name: Install dependencies
+    - name: Install Node
       uses: actions/setup-node@v2
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm install pnpm -g
-    - run: pnpm install
-    - name: run script
-    - run: pnpm run dev
-    - run: pnpm run dml
+    - name: Install dependencies
+      run: npm install
+    - name: Run
+      run: |
+        npm run dev
+        npm run dml
