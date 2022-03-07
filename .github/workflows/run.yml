@@ -29,5 +29,5 @@ jobs:
         pnpm install
     - name: Run
       run: |
-        pmpm run dev
-        npm run dml
+        pnpm run dev
+        pnpm run dml
