@@ -16,5 +16,10 @@
     "link": "https://blog.iks.moe/feed/atom",
     "description": "Typecho RSS",
     "mode": "rss"
+  },
+  {
+    "name": "rvvc",
+    "link": "https://blog.rvvc.im/feed/atom",
+    "mode": "rss"
   }
 ]
