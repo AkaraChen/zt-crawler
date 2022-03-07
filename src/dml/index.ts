@@ -1,5 +1,4 @@
 import { readFileSync } from "fs";
-import "dotenv/config";
 import { Pool } from "pg";
 import { Post } from "../model/post";
 
