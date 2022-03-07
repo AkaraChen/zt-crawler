@@ -11,12 +11,6 @@ jobs:
       matrix:
         node-version: [16.x]  
     steps:
-    - name: set up environment variable
-      run: |
-        export PGHOST=${{ secrets.PGHOST }}
-        export PGUSER=${{ secrets.PGUSER }}
-        export PGDATABASE=${{ secrets.PGDATABASE }}
-        export PGPASSWORD=${{ secrets.PGPASSWORD }}
     - uses: actions/checkout@v2
     - name: Install Node
       uses: actions/setup-node@v2
@@ -29,5 +23,9 @@ jobs:
         pnpm install
     - name: Run
       run: |
+        export PGHOST=${{ secrets.PGHOST }}
+        export PGUSER=${{ secrets.PGUSER }}
+        export PGDATABASE=${{ secrets.PGDATABASE }}
+        export PGPASSWORD=${{ secrets.PGPASSWORD }}
         pnpm run dev
         pnpm run dml
