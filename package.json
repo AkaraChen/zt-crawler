@@ -5,18 +5,22 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node src/index.ts",
-    "test": "ts-node src/test/index.ts"
+    "test": "ts-node src/test/index.ts",
+    "dml": "ts-node src/dml/clean.ts && ts-node src/dml/index.ts"
   },
   "author": "akarachen",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^17.0.21",
+    "@types/pg": "^8.6.4",
     "ts-node": "^10.5.0",
     "tslib": "^2.3.1",
     "typescript": "^4.5.5"
   },
   "dependencies": {
     "axios": "^0.26.0",
+    "dotenv": "^16.0.0",
+    "pg": "^8.7.3",
     "rss-to-json": "^2.0.2",
     "sync-request": "^6.1.0"
   }
