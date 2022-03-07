@@ -24,9 +24,8 @@ const app = async () => {
       const query = {
         name: "fetch-user",
         text: `INSERT INTO zhutian.web_content (name, link, category, cover) 
-        VALUES ('$1'::varchar, '$2'::varchar, '$3'::varchar, '$3'::varchar)`,
+        VALUES ($1::varchar, $2::varchar, $3::varchar, $4::varchar)`,
         values: [post.title, post.url, post.category, post.image],
-        rowMode: 'Array<String>'
       };
       pool.query(query);
     } catch {
