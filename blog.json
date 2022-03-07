@@ -18,5 +18,1795 @@
     "name": "rvvc",
     "link": "https://blog.rvvc.im/feed/atom",
     "mode": "rss"
-  }
+  },
+  {
+    "name": "\u900f\u660e\u521b\u4e1a\u5b9e\u9a8c",
+    "link": "https://blog.t9t.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u89e3\u9053jdon.com",
+    "link": "https://www.jdon.com/jivejdon/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u962e\u4e00\u5cf0\u7684\u7f51\u7edc\u65e5\u5fd7",
+    "link": "https://feeds.feedburner.com/ruanyifeng",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9177\u58f3",
+    "link": "https://coolshell.cn/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5f20\u946b\u65ed",
+    "link": "https://www.zhangxinxu.com/wordpress/?feed=rss2",
+    "mode": "rss"
+  },
+  {
+    "name": "\u868a\u5b50\u524d\u7aef\u535a\u5ba2",
+    "link": "https://www.xiabingbao.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "DIYGod", "link": "https://diygod.me/atom.xml", "mode": "rss" },
+  {
+    "name": "\u6c60\u5efa\u5f3a",
+    "link": "https://macshuo.com/?feed=rss2",
+    "mode": "rss"
+  },
+  {
+    "name": "ShrekShao",
+    "link": "https://shrekshao.github.io/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "phodal",
+    "link": "https://www.phodal.com/blog/feeds/rss/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8ffd\u68a6\u4eba\u7269\u7684\u535a\u5ba2",
+    "link": "https://www.zmrenwu.com/all/rss/",
+    "mode": "rss"
+  },
+  {
+    "name": "Python \u5de5\u5320",
+    "link": "https://www.zlovezl.cn/feeds/latest/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u660e\u660eS \u00c0 DOMICILE",
+    "link": "https://www.dongwm.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4f46\u884c\u597d\u4e8b\uff0c\u83ab\u95ee\u524d\u7a0b",
+    "link": "https://windard.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7f57\u78ca\u7684\u72ec\u7acb\u535a\u5ba2",
+    "link": "https://luolei.org/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9601\u5b50",
+    "link": "https://newdee.cf/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "RidiQulous",
+    "link": "https://ridiqulous.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4ee3\u7801\u5bb6",
+    "link": "https://daimajia.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5f00\u6e90\u5b9e\u9a8c\u5ba4",
+    "link": "https://www.kymjs.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6280\u672f\u5c0f\u9ed1\u5c4b",
+    "link": "https://droidyue.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "vzard's blog",
+    "link": "https://vzardlloo.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9b54\u738b\u4e0d\u9020\u53cd",
+    "link": "https://blog.biezhi.me/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u540e\u7aef\u6280\u672f\u6742\u8c08",
+    "link": "https://www.rowkey.me/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "zhonger", "link": "https://lisz.io/feed.xml", "mode": "rss" },
+  {
+    "name": "\u4f9d\u4e91's Blog",
+    "link": "https://blog.lilydjwg.me/posts.rss",
+    "mode": "rss"
+  },
+  { "name": "INTJer", "link": "https://arminli.com/feed/", "mode": "rss" },
+  {
+    "name": "\u601d\u5706\u7b14\u8bb0",
+    "link": "https://hintsnet.com/pimgeek/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "David\u524d\u7aef\u6280\u672f\u5206\u4eab",
+    "link": "https://www.daweilv.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u524d\u7aef\u5de5\u7a0b\u5e08 Toweave",
+    "link": "https://toweave.github.io/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8001\u5468\u5feb\u6551\u6211",
+    "link": "https://zxx.im/feed",
+    "mode": "rss"
+  },
+  { "name": "MouT.me", "link": "https://ghost.mout.me/rss/", "mode": "rss" },
+  {
+    "name": "diss\u5e26\u7801",
+    "link": "https://dumplingbao.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u738b\u767b\u79d1",
+    "link": "https://greatdk.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "chai2010 \u7684\u535a\u5ba2",
+    "link": "https://chai2010.cn/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7b28\u65b9\u6cd5\u5b66\u5199\u4f5c",
+    "link": "https://www.cnfeat.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Hawstein's Blog",
+    "link": "https://hawstein.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Skywind Inside",
+    "link": "https://www.skywind.me/blog/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u67d0\u5c9b",
+    "link": "https://www.shuizilong.com/house/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9648\u6c99\u514b\u65e5\u5fd7",
+    "link": "https://www.chenshake.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Cat in Chinese",
+    "link": "https://chinese.catchen.me/feeds/posts/default",
+    "mode": "rss"
+  },
+  {
+    "name": "Randy's Blog",
+    "link": "https://lutaonan.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "iTimothy",
+    "link": "https://xiaozhou.net/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "F.B", "link": "https://www.fanbing.net/feed", "mode": "rss" },
+  {
+    "name": "idea's blog",
+    "link": "https://www.ideawu.net/blog/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u900f\u660e\u601d\u8003",
+    "link": "https://gigix.thoughtworkers.org/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "xiaix's Blog", "link": "https://xiaix.me/rss/", "mode": "rss" },
+  {
+    "name": "\u641e\u7b11\u8ac7\u8edf\u5de5",
+    "link": "https://teddy-chen-tw.blogspot.com/feeds/posts/default",
+    "mode": "rss"
+  },
+  {
+    "name": "The Will Will Web",
+    "link": "https://feeds.feedburner.com/TheWillWillWeb",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7a0b\u5e8f\u5e08",
+    "link": "https://www.techug.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u82b1\u94b1\u7684\u5e74\u534e",
+    "link": "https://calvin1978.blogcn.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u80e1\u5b50\u54e5\u7684\u4e2a\u4eba\u7f51\u7ad9",
+    "link": "https://www.barretlee.com/rss2.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u665a\u6674\u5e7d\u8349\u8f69",
+    "link": "https://www.jeffjade.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6797\u5c0f\u6c90",
+    "link": "https://feed.immmmm.com/",
+    "mode": "rss"
+  },
+  {
+    "name": "HelloDog",
+    "link": "https://wsgzao.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "the5fire\u7684\u6280\u672f\u535a\u5ba2",
+    "link": "https://www.the5fire.com/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4f59\u6d77\u5cef David \u7269\u7406\u55b5 phycat",
+    "link": "https://hfdavidyu.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6c34\u661f\u6295\u8d44\u7406\u8d22",
+    "link": "https://mercurychong.blogspot.com/feeds/posts/default",
+    "mode": "rss"
+  },
+  {
+    "name": "Mr. PM \u4e0b\u5348\u5148\u751f",
+    "link": "https://feeds.feedburner.com/pmmustknow",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4eba\u4eba\u90fd\u662f\u4ea7\u54c1\u7ecf\u7406\u2014\u2014iamsujie",
+    "link": "https://iamsujie.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8f49\u500b\u5f4e\u65e5\u8a8c",
+    "link": "https://blog.turn.tw/?feed=rss2",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4f59\u679c\u7684\u535a\u5ba2",
+    "link": "https://feeds.feedburner.com/yuguo",
+    "mode": "rss"
+  },
+  {
+    "name": "O3noBLOG",
+    "link": "https://feeds.feedburner.com/othree",
+    "mode": "rss"
+  },
+  {
+    "name": "Vivaxy's blog",
+    "link": "https://vivaxyblog.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Debug\u5ba2\u6808",
+    "link": "https://www.debuginn.cn/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "Origin's blog",
+    "link": "https://blog.singee.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "isaced",
+    "link": "https://www.isaced.com/index.xml",
+    "mode": "rss"
+  },
+  { "name": "Jason", "link": "https://atjason.com/atom.xml", "mode": "rss" },
+  {
+    "name": "forecho \u7684\u72ec\u7acb\u535a\u5ba2",
+    "link": "https://blog.forecho.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Jack Liu\u535a\u5ba2",
+    "link": "https://www.jack-liu.com/rss.php",
+    "mode": "rss"
+  },
+  {
+    "name": "GeekPlux",
+    "link": "https://geekplux.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u738b\u5b50\u4ead\u7684\u535a\u5ba2",
+    "link": "https://jysperm.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "EGOIST \u5eb6\u6c11\u6837\u672c",
+    "link": "https://egoist.moe/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u738b\u57a0\u7684\u535a\u5ba2",
+    "link": "https://rsshub.app/blogs/wangyin",
+    "mode": "rss"
+  },
+  {
+    "name": "\u626f\u6c2e\u96c6",
+    "link": "https://weiwuhui.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u64b8",
+    "link": "https://www.60sky.com/index.php/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Aiur \u00b7 Zellux \u7684\u535a\u5ba2",
+    "link": "https://blog.yxwang.me/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6218\u96bc\u7684\u5b66\u4e60\u63a2\u7d22",
+    "link": "https://www.read.org.cn/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7855\u9f20\u7684\u535a\u5ba2\u7ad9",
+    "link": "https://lukefan.com/?feed=rss2",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9ed1\u00b7\u767d",
+    "link": "https://blog.xiayf.cn/feeds/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u733f\u5927\u5723",
+    "link": "https://hufangyun.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u56e7\u514b\u65af \u52fe\u4e09\u80a1\u56db",
+    "link": "https://jiongks.name/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u51b0\u7cd6\u6a59\u5b50",
+    "link": "https://www.btorange.com/feed",
+    "mode": "rss"
+  },
+  { "name": "Zeove'blog", "link": "https://zeove.com/feed", "mode": "rss" },
+  {
+    "name": "\u51af\u5510\u535a\u5ba2",
+    "link": "https://www.fengtang.com/blog/?feed=rss2",
+    "mode": "rss"
+  },
+  { "name": "Lucifr", "link": "https://lucifr.com/rss/", "mode": "rss" },
+  {
+    "name": "\u5f20\u6208\u535a\u5ba2",
+    "link": "https://zhang.ge/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "ChrAlpha \u7684\u5e7b\u60f3\u4e61",
+    "link": "https://blog.ichr.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u892a\u58a8\u30fb\u65f6\u95f4\u7ba1\u7406",
+    "link": "https://www.mifengtd.cn/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u51b0\u5c71\u4e00\u89d2",
+    "link": "https://cnberg.div.io/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6211\u7231\u81ea\u7136\u8bed\u8a00\u5904\u7406",
+    "link": "https://www.52nlp.cn/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5510\u5de7\u7684\u535a\u5ba2",
+    "link": "https://blog.devtang.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "OneV's Den",
+    "link": "https://onevcat.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Garan no dou",
+    "link": "https://blog.ibireme.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u53ef\u80fd\u5427",
+    "link": "https://feeds.kenengba.com/kenengbarss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9e1f\u7a9d",
+    "link": "https://colobu.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u706b\u4e01\u7b14\u8bb0",
+    "link": "https://huoding.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "libfeihu Blog",
+    "link": "https://feihu.me/blog/feed.atom",
+    "mode": "rss"
+  },
+  {
+    "name": "Nic Lin's Blog",
+    "link": "https://blog.niclin.tw/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Halfrost's Field",
+    "link": "https://halfrost.com/rss/",
+    "mode": "rss"
+  },
+  {
+    "name": "limboy's HQ",
+    "link": "https://feeds.feedburner.com/lzyy",
+    "mode": "rss"
+  },
+  {
+    "name": "sunnyxx\u7684\u6280\u672f\u535a\u5ba2",
+    "link": "https://blog.sunnyxx.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u963f\u6bdb\u7684\u86cb\u75bc\u5730",
+    "link": "https://xiangwangfeng.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "Kevin Blog", "link": "https://zhowkev.in/rss/", "mode": "rss" },
+  {
+    "name": "bang's blog",
+    "link": "https://blog.cnbang.net/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "I'm TualatriX",
+    "link": "https://feeds.feedburner.com/tualatrix",
+    "mode": "rss"
+  },
+  {
+    "name": "Wujunze's Blog",
+    "link": "https://wujunze.com/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Est's Blog",
+    "link": "https://feeds.feedburner.com/initiative",
+    "mode": "rss"
+  },
+  { "name": "Wiken", "link": "https://www.hehuapei.com/feed", "mode": "rss" },
+  {
+    "name": "\u70b8\u88c2\u5fd7",
+    "link": "https://zhaliezhi.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "kok\u7684\u7b14\u8bb0\u672c",
+    "link": "https://wocai.de/index.xml/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u641e\u641e\u9707",
+    "link": "https://wujingquan.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Qt\u8fdb\u9636\u4e4b\u8def-\u6d9b\u54e5\u7684\u535a\u5ba2",
+    "link": "https://jaredtao.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Fred Wu's Blog",
+    "link": "https://fredwu.me/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5403\u9762\u6761\u4e48",
+    "link": "https://feed.miantiao.me/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8d3a\u53f6\u971c\u7684\u6811",
+    "link": "https://blog.heysh.xyz/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Frytea's Blog",
+    "link": "https://blog.frytea.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "Mohuishou's Blog",
+    "link": "https://lailin.xyz/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7b97\u6cd5\u82b1\u56ed",
+    "link": "https://xiang578.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "1A23 Studio", "link": "https://1a23.com/feed/", "mode": "rss" },
+  {
+    "name": "Jiajun\u7684\u7f16\u7a0b\u968f\u60f3",
+    "link": "https://jiajunhuang.com/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5fd8\u5f52",
+    "link": "https://jalan.space/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8d3c\u62c9\u6b63\u7ecf\u7684\u6280\u672f\u535a\u5ba2",
+    "link": "https://stackoverflow.wiki/blog/rss.xml",
+    "mode": "rss"
+  },
+  { "name": "Lenix", "link": "https://blog.p2hp.com/feed", "mode": "rss" },
+  {
+    "name": "\u897f\u79e6\u516c\u5b50",
+    "link": "https://www.ixiqin.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Placeholder",
+    "link": "https://www.luotaoruby.me/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "OnionTalk",
+    "link": "https://hateonion.me/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Allen's Blog",
+    "link": "https://www.capallen.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8c22\u76ca\u8f89",
+    "link": "https://yihui.name/cn/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6728\u9065\u7684\u7a97\u5b50",
+    "link": "https://blog.farmostwood.net/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "UsubeniFantasy",
+    "link": "https://ssshooter.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u535a\u8a00\u6280\u672f\u6742\u8c08",
+    "link": "https://boyn.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Alexander D Huang's Blog",
+    "link": "https://alxddh.github.io/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "KAIX.IN", "link": "https://kaix.in/feed", "mode": "rss" },
+  {
+    "name": "\u671d\u821e",
+    "link": "https://ii74.com/feed.php",
+    "mode": "rss"
+  },
+  {
+    "name": "Matrix67: The Aha Moments",
+    "link": "https://www.matrix67.com/blog/feed",
+    "mode": "rss"
+  },
+  { "name": "Livid", "link": "https://livid.v2ex.com/feed.xml", "mode": "rss" },
+  {
+    "name": "\u83ab\u5c14\u7d22",
+    "link": "https://morso.space/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "hanjm's Blog",
+    "link": "https://www.imhanjm.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8c22\u4e7e\u5764|\u9752\u5357",
+    "link": "https://www.kingname.info/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "SEO \u7f51\u7ad9\u4f18\u5316\u53ca\u7f51\u7ad9\u63a8\u5e7f",
+    "link": "https://seo.g2soft.net/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9ad8\u91d1\u7684\u535a\u5ba2",
+    "link": "https://igaojin.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u795e\u5947\u7684\u6218\u58eb",
+    "link": "https://thinkhard.tech/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u81e8\u6c60\u4e0d\u8f1f",
+    "link": "https://keelii.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7280\u5229\u8c46\u7684\u535a\u5ba2",
+    "link": "https://xilidou.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Kuricat's Blog",
+    "link": "https://kuricat.com/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u788e\u88c2\u4e4b\u68a6",
+    "link": "https://h-cheung.gitlab.io/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9065\u884c Gofurther \u6280\u672f&ML&BC\u535a\u5ba2",
+    "link": "https://charlesliuyx.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5f20\u51ef\u5f3a\u7684\u535a\u5ba2",
+    "link": "https://zkqiang.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "xulihang's blog",
+    "link": "https://blog.xulihang.me/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u89c1\u5b57\u5982\u9762",
+    "link": "https://hiwannz.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u628a\u9152\u8bd7\u4ee3\u7801",
+    "link": "https://www.102no.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "NotJustCode",
+    "link": "https://article.mebtte.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "ZWkang\u7684\u6280\u672f\u535a\u5ba2",
+    "link": "https://zwkang.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6c5f\u8fb9\u7684\u65f1\u9e2d\u5b50",
+    "link": "https://blog.joouis.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8ffd\u98ce\u4e4b\u5f71",
+    "link": "https://www.devashen.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "HansChen \u7684\u535a\u5ba2",
+    "link": "https://blog.hanschen.site/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "IPhysResearch",
+    "link": "\u7f16\u7a0b; \u79d1\u7814; \u7269\u7406; \u5f15\u529b\u6ce2; AI; \u6df1\u5ea6\u5b66\u4e60; \u673a\u5668\u5b66\u4e60; \u5f00\u6e90;",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5218\u60a6\u7684\u6280\u672f\u535a\u5ba2",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "Desvl's blog",
+    "link": "https://desvl.xyz/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "haokunt\u7684\u535a\u5ba2",
+    "link": "https://hkvision.cn/index.xml",
+    "mode": "rss"
+  },
+  { "name": "Deepzz's Blog", "link": "https://deepzz.com/feed", "mode": "rss" },
+  {
+    "name": "lucifer\u7684\u7f51\u7edc\u535a\u5ba2",
+    "link": "https://lucifer.ren/blog/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u591a\u5a92\u4f53\u5f00\u53d1\u672d\u8bb0",
+    "link": "https://glumes.com/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Josherich\u7684\u535a\u5ba2",
+    "link": "https://www.josherich.me/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "AthorX's Blog",
+    "link": "https://athorx.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "FlyingSky's Blog",
+    "link": "https://blog.fsky7.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5df1\u7f8a\u7684\u68a6",
+    "link": "https://www.jiyang00.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "anran758's blog",
+    "link": "https://anran758.github.io/blog/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u601d\u6709\u4e91",
+    "link": "https://www.ioiox.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u521d\u7b49\u8a18\u61b6\u9ad4",
+    "link": "https://axionl.me/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u57ce\u4e2d\u6751\u7fa4\u79df\u623f",
+    "link": "https://www.darmau.com/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5929\u53ef\u4f18\u53ef",
+    "link": "https://jyzhu.top/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7231\u5199\u4ee3\u7801\u7684\u5c0f\u4e66\u7ae5",
+    "link": "https://zofun.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Teach Talk",
+    "link": "https://www.ttalk.im/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9010\u9e7fIT-\u731b\u731b\u5982\u7389",
+    "link": "https://amonxu.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Xiaoi's Blog",
+    "link": "https://blog.xiaoi.me/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u863f\u8514\u4e01",
+    "link": "https://xlbd.me/rss/",
+    "mode": "rss"
+  },
+  { "name": "Drcus | \u6f5c\u9ed8", "link": "", "mode": "rss" },
+  {
+    "name": "Realcat",
+    "link": "https://www.vincentqin.tech/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u60ac\u94c3\u6728",
+    "link": "https://feedity.com/hbsun-top/UlJVWlFTUQ.rss",
+    "mode": "rss"
+  },
+  { "name": "LIANYONGXING\u7684\u535a\u5ba2", "link": "", "mode": "rss" },
+  {
+    "name": "\u8303\u53f6\u4eae\u7684\u535a\u5ba2",
+    "link": "https://leovan.me/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "\u81ea\u7531\u4eba\u7684 BLOG",
+    "link": "https://ifttl.com/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "WEB VIEW",
+    "link": "https://webview.tech/category/blog/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u540e\u7aef\u8fdb\u9636",
+    "link": "https://objcoding.github.io/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Ahonn's Blog",
+    "link": "https://www.ahonn.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Panda Home",
+    "link": "https://old-panda.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6e38\u9b42\u535a\u5ba2",
+    "link": "https://www.iyouhun.com/rss.php",
+    "mode": "rss"
+  },
+  {
+    "name": "\u84dd\u5361",
+    "link": "https://www.lanka.cn/feed/",
+    "mode": "rss"
+  },
+  { "name": "Yuuno", "link": "https://yuuno.cc/atom.xml", "mode": "rss" },
+  {
+    "name": "\u81ea\u5b66\u8def\u6f2b\u6f2b",
+    "link": "https://blog.fxcdev.com/feed/",
+    "mode": "rss"
+  },
+  { "name": "CodeSky", "link": "https://codesky.me/feed/", "mode": "rss" },
+  {
+    "name": "\u7a7a\u4e4b\u9886\u57df",
+    "link": "https://xsky.me/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Claude's Blog",
+    "link": "https://claude-ray.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Just lepture",
+    "link": "https://lepture.com/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "Lyric", "link": "https://lyric.im/feed/rss2.xml", "mode": "rss" },
+  {
+    "name": "\u6851\u5f27\u84ec\u77e2\u5c04\u56db\u65b9",
+    "link": "https://iphyer.github.io/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6742\u8d27\u5c4b",
+    "link": "https://sword.studio/feed",
+    "mode": "rss"
+  },
+  { "name": "\u4e0d\u624d's blog", "link": "", "mode": "rss" },
+  {
+    "name": "\u6c90\u51c9",
+    "link": "https://blog.cccccc.online/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "idealclover",
+    "link": "https://idealclover.top/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9752\u7a7a\u4e4b\u84dd",
+    "link": "https://blog.ixk.me/feed",
+    "mode": "rss"
+  },
+  { "name": "\u5434\u51ef\u51ef\u7684\u535a\u5ba2", "link": "", "mode": "rss" },
+  {
+    "name": "\u708e\u5fcd\u7684\u535a\u5ba2",
+    "link": "https://blog.endureblaze.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u554a\u54c8\u5475\u55e8\u7684\u535a\u5ba2",
+    "link": "https://gylidian.js.org/rss2.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "easeapi blog",
+    "link": "https://easeapi.com/blog/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5d0e\u5f84 \u5176\u955c\u8d75\u5b89\u742a\u7684\u535a\u5ba2",
+    "link": "https://www.z16388.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "The Art of Chawye Hsu",
+    "link": "https://www.h404bi.com/feed/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5415\u5c0f\u8363\u7684\u7f51\u5fd7",
+    "link": "https://mednoter.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u52a0\u83f2\u732b\u7684\u521b\u5ba2\u5de5\u574a",
+    "link": "https://gaficat.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u80e1\u6d82\u8bf4",
+    "link": "https://hutusi.com/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "\u98ce\u6eda\u8349", "link": "", "mode": "rss" },
+  {
+    "name": "\u5f20\u4f73\u5706",
+    "link": "https://blog.jiayuanzhang.com/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u56db\u516c\u5b50\u7684\u5251",
+    "link": "https://blogbo.org/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u70b8\u88c2\u5fd7",
+    "link": "https://zhaliezhi.com/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "\u6731\u53cc\u5370", "link": "", "mode": "rss" },
+  {
+    "name": "\u5c0f\u660e\u660es \u00e0 domicile",
+    "link": "https://www.dongwm.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "the5fire\u7684\u6280\u672f\u535a\u5ba2",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "LFhacks.com",
+    "link": "https://www.lfhacks.com/rss/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6843\u56ed",
+    "link": "https://www.taoweng.site/feed",
+    "mode": "rss"
+  },
+  { "name": "oldj's blog", "link": "https://oldj.net/feed", "mode": "rss" },
+  { "name": "\u4ee5\u68a6\u5582\u9a6c", "link": "", "mode": "rss" },
+  {
+    "name": "Yiran's Blog",
+    "link": "https://zdyxry.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6c89\u7ef4\u71d5\u7684\u4e2a\u4eba\u535a\u5ba2",
+    "link": "https://shen.bioinit.com/topic/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e09\u7701\u543e\u8eab\u4e36\u4e36",
+    "link": "https://blog.guowenfh.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u56de\u672a\u89c6\u6212",
+    "link": "https://huiweishijie.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "TRHX'S BLOG",
+    "link": "https://www.itrhx.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u95eb\u946b\u708e\u7684\u535a\u5ba2",
+    "link": "https://www.yanxingyan.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8001\u9ad8\u7684\u535a\u5ba2",
+    "link": "https://blog.mute-g.com/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "CallMeSoul",
+    "link": "https://callmesoul.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9f9a\u6210\u535a\u5ba2",
+    "link": "https://laogongshuo.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "Seven's blog",
+    "link": "https://blog.diqigan.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e1c\u65b9\u4e4b\u80f1",
+    "link": "https://east-bladder.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "CRIMX", "link": "https://blog.crimx.com/rss.xml", "mode": "rss" },
+  {
+    "name": "\u5c0f\u975e\u7684\u7269\u7406\u5c0f\u7ad9",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "Michael\u7fd4",
+    "link": "https://michael728.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Dosk \u6280\u672f\u7ad9",
+    "link": "https://www.dosk.win/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4f1a\u6253\u7bee\u7403\u7684\u7a0b\u5e8f\u733f",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4ed9\u795e\u306e\u5c0f\u5c4b",
+    "link": "https://aqours.life/index.php/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Xieisabug",
+    "link": "https://www.xiejingyang.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u90d1\u6cfd\u946b\u7684\u535a\u5ba2",
+    "link": "https://zhengzexin.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u96f7\u5168\u7684\u4e2a\u4eba\u7f51\u7ad9",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "\u524d\u7aef\u8ff7",
+    "link": "https://ru23.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "\u6e05\u7af9\u8336\u9986\u535a\u5ba2", "link": "", "mode": "rss" },
+  {
+    "name": "\u968b\u5824\u5026\u5ba2",
+    "link": "https://fengxu.ink/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8001\u956d",
+    "link": "https://www.wolone.wang/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Scott Yeung's Blog",
+    "link": "https://scottyeung.club/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "hywel\u524d\u7aef\u4e2a\u4eba\u535a\u5ba2",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "LarsCheng",
+    "link": "https://www.larscheng.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "\u5f00\u53d1\u8005\u5c0f\u84dd", "link": "", "mode": "rss" },
+  {
+    "name": "Origin",
+    "link": "https://blog.singee.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7801\u5fd7",
+    "link": "https://mazhuang.org/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5317\u95e8\u6e05\u71d5",
+    "link": "https://www.bmqy.net/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "Joe's Blog",
+    "link": "https://hijiangtao.github.io/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Yuechuan",
+    "link": "https://yuechuanx.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "BiHell",
+    "link": "https://www.bihell.com/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "Jansora", "link": "", "mode": "rss" },
+  {
+    "name": "\u7d20\u751f",
+    "link": "https://z.arlmy.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7ef4\u57fa\u840c",
+    "link": "https://www.wikimoe.com/rss.php",
+    "mode": "rss"
+  },
+  {
+    "name": "strongwong's Blog",
+    "link": "https://blog.strongwong.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4fdd\u7f57\u7684\u5c0f\u5b87\u5b99",
+    "link": "https://paugram.com/feed",
+    "mode": "rss"
+  },
+  { "name": "typeblog", "link": "https://typeblog.net/rss/", "mode": "rss" },
+  {
+    "name": "HuoJu's BLOG",
+    "link": "https://jhuo.ca//./index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "MikeoPerfect's Diary",
+    "link": "https://blog.mikeoperfect.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "myfreax", "link": "https://www.myfreax.com/feed/", "mode": "rss" },
+  {
+    "name": "\u6a59\u5149\u7b14\u8bb0",
+    "link": "https://www.kai666666.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Mobility",
+    "link": "https://lichuanyang.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "not LSD",
+    "link": "https://notlsd.github.io/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "\u676f\u9152\u6545\u4e8b", "link": "", "mode": "rss" },
+  { "name": "\u65e0\u6587\u5b57", "link": "", "mode": "rss" },
+  { "name": "DuyaoSS", "link": "", "mode": "rss" },
+  {
+    "name": "\u6728\u5b50",
+    "link": "https://blog.502.li/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "wuxinhua's Blog",
+    "link": "https://wuxinhua.com/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "Dasyatis", "link": "", "mode": "rss" },
+  {
+    "name": "\u859b\u5b9a\u55b5\u541b\u7684\u535a\u5ba2",
+    "link": "",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9759\u4e4b\u6797",
+    "link": "https://blog.shizuri.net/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u571f\u6728\u575b\u5b50",
+    "link": "https://tumutanzi.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u722a\u54c7\u5802",
+    "link": "https://www.javatang.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6697\u65e0\u5929\u65e5",
+    "link": "https://www.lujun9972.win/rss.xml",
+    "mode": "rss"
+  },
+  { "name": "Ryan_naiquan", "link": "", "mode": "rss" },
+  {
+    "name": "Grayson's blog",
+    "link": "https://blog.grayson.org.cn/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e00\u4e2a\u7403",
+    "link": "https://jw12138.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u738b\u6b23\u7684\u535a\u5ba2",
+    "link": "https://wangxin.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Jartto's Blog",
+    "link": "https://jartto.wang/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "ScarSu\u7684\u4e2a\u4eba\u7f51\u7ad9",
+    "link": "https://www.scarsu.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Lucien's Blog",
+    "link": "https://blog.lucien.ink/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "TonyHe \u7684\u535a\u5ba2",
+    "link": "https://www.ouorz.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "HashTang \u7684\u4e2a\u4eba\u7a7a\u95f4",
+    "link": "https://www.hxkj.vip/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u683c\u7269\u81f4\u77e5",
+    "link": "https://liqiang.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9ec4\u7426\u96f2\u7684\u535a\u5ba2",
+    "link": "https://knightyun.github.io/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "\u7d22\u83f2\u5916\u8d38\u7b14\u8bb0", "link": "", "mode": "rss" },
+  { "name": "\u9633\u5fd7\u5e73\u7684\u7f51\u5fd7", "link": "", "mode": "rss" },
+  {
+    "name": "\u9648\u534e\u7684\u4e2a\u4eba\u4e3b\u9875",
+    "link": "https://chenhua.name/cn/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u987e\u5b87\u7684\u7814\u4e60\u7b14\u8bb0",
+    "link": "https://www.wizardbyron.com/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u718a\u5199\u5b57\u7684\u5730\u65b9",
+    "link": "https://blog.skrskrskrskr.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7f16\u7a0b\u6c89\u601d\u5f55",
+    "link": "https://www.cyhone.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e09\u70b9\u949f\u7684\u592a\u9633",
+    "link": "https://iamxcb.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "LiesAuer's Blog",
+    "link": "https://www.liesauer.net/blog/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Blog of Music",
+    "link": "https://www.blogofmusic.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "Beyond the Void",
+    "link": "https://www.byvoid.com/feed",
+    "mode": "rss"
+  },
+  { "name": "Yi's blog", "link": "https://wangyi.ai/atom.xml", "mode": "rss" },
+  { "name": "1 Byte", "link": "https://1byte.io/rss.xml", "mode": "rss" },
+  {
+    "name": "Inevitable",
+    "link": "https://www.inevitable.tech/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6784\u5efa\u6211\u7684\u88ab\u52a8\u6536\u5165",
+    "link": "https://www.bmpi.dev/index.xml",
+    "mode": "rss"
+  },
+  { "name": "61's life", "link": "https://61.life/feed.xml", "mode": "rss" },
+  {
+    "name": "aiokr's daily",
+    "link": "https://itypen.app/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "@Lenciel", "link": "https://lenciel.com/feed.xml", "mode": "rss" },
+  {
+    "name": "M-x Chris-An-Emacser",
+    "link": "https://chriszheng.science/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7b2c\u4e03\u661f\u5c18\u7684\u72ec\u7acb\u535a\u5ba2",
+    "link": "https://blog.star7th.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "Chino's Workspace",
+    "link": "https://chinomars.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Juuun's World",
+    "link": "https://juuun.io/rss.xml",
+    "mode": "rss"
+  },
+  { "name": "KurryLuo's Website", "link": "", "mode": "rss" },
+  { "name": "\u5976\u7238\u7684\u5929\u7a7a", "link": "", "mode": "rss" },
+  {
+    "name": "chattymoney(\u8ddf\u6211\u4e00\u8d77\u6765\u8c08\u94b1)",
+    "link": "",
+    "mode": "rss"
+  },
+  { "name": "TCPGNL", "link": "https://tcpgnl.com/feed", "mode": "rss" },
+  {
+    "name": "weirane's blog",
+    "link": "https://weirane.github.io/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u672c\u683c\u5f02\u60f3\u5f55",
+    "link": "https://astrianzheng.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u662f\u4e5f\u4e4e(\uffe3\u25bd\uffe3)",
+    "link": "https://blog.zoomquiet.io/feeds/all.atom.xml",
+    "mode": "rss"
+  },
+  { "name": "Eltrac's Track", "link": "https://guhub.cn/feed", "mode": "rss" },
+  {
+    "name": "\u67d0\u884c\u4eba",
+    "link": "https://blog.just4fun.site/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Oasis's Blog",
+    "link": "https://blog.imoasis.cn/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Bob Jiang's Blog",
+    "link": "https://bobjiang.com/feed/",
+    "mode": "rss"
+  },
+  { "name": "WEB VIEW", "link": "https://webview.tech/feed/", "mode": "rss" },
+  {
+    "name": "Nicksxs's Blog",
+    "link": "https://nicksxs.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "LookCos's Blog",
+    "link": "https://www.lookcos.cn/?feed=rss2",
+    "mode": "rss"
+  },
+  {
+    "name": "Continue The Voyage",
+    "link": "https://www.mkernel.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Ground Oddity",
+    "link": "https://idle.systems/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e0d\u5410\u4e0d\u5feb",
+    "link": "https://mianao.info/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "iblogc's blog",
+    "link": "https://me.iblogc.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u778e\u626f",
+    "link": "https://blogs.nearsyh.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u51c9\u5929\u5ba2\u6808",
+    "link": "https://earture.org/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6c90\u98ce\u7684\u535a\u5ba2",
+    "link": "https://blog.mufengs.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "zxc\u7684\u81ea\u7559\u5730",
+    "link": "https://gogogozxc.xyz/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "PM \u5c0f\u51ef\u54e5",
+    "link": "https://xuxinkai.cn/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6a35\u592b\u7684\u5c0f\u7ad9",
+    "link": "https://geofftools.cn/blog/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "beyond stars",
+    "link": "https://beyondstars.xyz/posts/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "yangerxiao",
+    "link": "https://blog.yangerxiao.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Battle Le",
+    "link": "https://battlele.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Shidenggui's Blog",
+    "link": "https://shidenggui.com/feeds",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e1c\u65b9\u672a\u767d\u7684\u5c0f\u4e16\u754c",
+    "link": "https://pkq.xyz/rss",
+    "mode": "rss"
+  },
+  {
+    "name": "Pervade Tech",
+    "link": "https://www.pervade.tech/rss.xml",
+    "mode": "rss"
+  },
+  { "name": "laike9m", "link": "https://laike9m.com/blog/rss/", "mode": "rss" },
+  {
+    "name": "laixintao",
+    "link": "https://www.kawabangga.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5218\u60a6",
+    "link": "https://v3u.cn/sitemap.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u80e1\u548c\u5148",
+    "link": "https://www.huhexian.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "ZMonster",
+    "link": "https://www.zmonster.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u59ec\u6d9b",
+    "link": "https://www.jitao.tech/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Frost's Blog",
+    "link": "https://frostming.com/feed.xml (atom xml)",
+    "mode": "rss"
+  },
+  {
+    "name": "IT\u8001\u5175\u54e5",
+    "link": "https://www.itlaobingge.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9648\u4ed3\u9889",
+    "link": "https://imzm.im/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6398\u5893\u4eba\u7684\u5c0f\u94f2\u5b50",
+    "link": "https://juemuren4449.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u65e5\u5e38\u5457",
+    "link": "https://www.richang.be/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8ba4\u77e5.xKnow",
+    "link": "https://xknow.net/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5343\u5343",
+    "link": "https://www.dreamwings.cn/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "zcmimi's blog",
+    "link": "https://blog.zcmimi.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5434\u7693\u8bda\u4eab",
+    "link": "https://wuhaobak.cn/?feed=rss2",
+    "mode": "rss"
+  },
+  { "name": "thedrwu", "link": "https://thedrwu.com/rss.xml", "mode": "rss" },
+  {
+    "name": "\u949f\u5609\u6770\u7684\u535a\u5ba2",
+    "link": "https://zhongjiajie.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4e91\u6e38\u541b\u7684\u5c0f\u7ad9",
+    "link": "https://www.yunyoujun.cn/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "ie9", "link": "https://ie9.org/index.xml", "mode": "rss" },
+  {
+    "name": "\u683c\u7269\u6cbb\u7528",
+    "link": "https://blog.approachai.com/rss/",
+    "mode": "rss"
+  },
+  { "name": "ljf", "link": "https://ljf.com/feed/", "mode": "rss" },
+  {
+    "name": "\u6211\uff0c\u9b54\u672f\u5e08",
+    "link": "https://imagician.net/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u65c5\u884c\u6f2b\u8bb0",
+    "link": "https://travel.synyan.net/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8bfb\u6765\u4f9d\u7136",
+    "link": "https://yir.me/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u83dc\u9e1f\u4e4b\u5fd7",
+    "link": "https://loonlog.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u963f\u5b81",
+    "link": "https://www.huyuning.com/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7b14\u68ee",
+    "link": "https://www.2forest.cn/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "imByteCat",
+    "link": "https://www.imbytecat.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u9047\u89c1\u5b64\u72ec",
+    "link": "https://blog.aenjoy.cn/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "Guyskk\u7684\u535a\u5ba2",
+    "link": "https://blog.guyskk.com/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u674f\u5b50\u7684\u4e66\u67b6",
+    "link": "https://moe48.moe/feeds",
+    "mode": "rss"
+  },
+  {
+    "name": "Marsvet's Blog",
+    "link": "https://marsvet.top/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6d6e\u4e91\u6e38\u5b50\u610f",
+    "link": "https://leonson.me/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Karuboniru's Blog",
+    "link": "https://yanqiyu.info/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u98de\u5200\u535a\u5ba2",
+    "link": "https://www.feidaoboke.com/feed.php",
+    "mode": "rss"
+  },
+  {
+    "name": "\u8f76\u54e5",
+    "link": "https://www.wyr.me/rss.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Jalen",
+    "link": "https://blog.jalenchuh.cn/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "Sonic853", "link": "https://blog.853lab.com/feed", "mode": "rss" },
+  { "name": "YOYLING", "link": "https://yoyling.com/feed", "mode": "rss" },
+  {
+    "name": "\u5929\u5fc3\u6d41\u6c34\u7684\u535a\u5ba2",
+    "link": "https://qxzzf.com/posts/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u4ee5\u68a6\u4e3a\u9a6c",
+    "link": "https://lhymwm.github.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Alili\u4e36\u524d\u7aef\u5927\u7206\u70b8",
+    "link": "https://alili.tech/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u4ee4\u7ae5\u978b",
+    "link": "https://www.zeekling.cn/rss.xml",
+    "mode": "rss"
+  },
+  { "name": "996.one", "link": "https://996.one/feed.xml", "mode": "rss" },
+  {
+    "name": "\u4e03\u7c73\u84dd",
+    "link": "https://www.chirmyram.top/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u732b\u9f2c\u7684\u661f\u7403\u8ba1\u5212",
+    "link": "https://blog.catyo.cn/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u6709\u6b21\u535a\u5ba2",
+    "link": "https://you.ci/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5ead\u8bf4",
+    "link": "https://tingtalk.me/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "pi-dal",
+    "link": "https://blog.pi-dal.com/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "Zeruns's Blog",
+    "link": "https://blog.zeruns.tech/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "ZJohnson's blog",
+    "link": "https://johnsonzzz.gitee.io/atom.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "SaltyLeo's Blog",
+    "link": "https://tstrs.me/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "Jtf's Blog", "link": "https://jtf.im/atom.xml", "mode": "rss" },
+  {
+    "name": "\u4e92\u8054\u8bf4",
+    "link": "RSS https://www.fanfuns.com/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7231\u91cc\u74dc",
+    "link": "https://www.eriqua.com/index.php/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "DLog \u674e\u4e01\u535a\u5ba2",
+    "link": "https://dingzeyu.li/blog/feed.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5362\u8d24\u6cfc\u7684\u535a\u5ba2",
+    "link": "https://www.luxianpo.com/rss.xml",
+    "mode": "rss"
+  },
+  { "name": "teobler", "link": "https://teobler.com/rss.xml", "mode": "rss" },
+  {
+    "name": "\u80e1\u5bb6\u5c0f\u5b50",
+    "link": "https://www.boyhu.cn/feed/",
+    "mode": "rss"
+  },
+  {
+    "name": "\u53f6\u5bfb\u7684\u65e5\u5fd7",
+    "link": "https://cyrusyip.org/post/index.xml",
+    "mode": "rss"
+  },
+  {
+    "name": "\u5c0f\u80d6\u306e\u7a9d",
+    "link": "https://www.littlefat.cn/feed.xml",
+    "mode": "rss"
+  },
+  { "name": "WhiteFan", "link": "https://www.baifan97.cn/feed", "mode": "rss" },
+  {
+    "name": "\u541b\u5b50\u4e0d\u5668",
+    "link": "https://www.colinjiang.com/feed",
+    "mode": "rss"
+  },
+  {
+    "name": "\u7b77\u5b50\u5c0f\u624b",
+    "link": "https://macin.org/atom.xml",
+    "mode": "rss"
+  },
+  { "name": "4Ark", "link": "https://4ark.me/atom.xml", "mode": "rss" }
 ]
