@@ -1,7 +1,7 @@
 # This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: Craw
+name: craw
 
 on:
   schedule:
@@ -18,6 +18,11 @@ jobs:
         node-version: [16.x]
         
     steps:
+    - name: set up environment variable
+    - run: PGHOST = {secrets.PGHOST}
+    - run: PGUSER = {secret.PGUSER}
+    - run: PGDATABASE = {secret.PGDATABASE}
+    - run: PGPASSWORD = {secret.PGPASSWORD}
     - uses: actions/checkout@v2
     - name: Install dependencies
       uses: actions/setup-node@v2
