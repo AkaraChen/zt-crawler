@@ -21,10 +21,13 @@ const app = async () => {
   if (!posts) return;
   posts.forEach((post) => {
     try {
-      pool.query(
-        `INSERT INTO zhutian.web_content (name, link, category, cover) 
-    VALUES ('${post.title.replace('\'',"”")}'::varchar, '${post.url}'::varchar, '${post.category}'::varchar, '${post.image}'::varchar)`
-      );
+      const query = {
+        name: "fetch-user",
+        text: `INSERT INTO zhutian.web_content (name, link, category, cover) 
+        VALUES ('$1'::varchar, '$2'::varchar, '$3'::varchar, '$3'::varchar)`,
+        values: [post.title, post.url, post.category, post.image],
+      };
+      pool.query(query);
     } catch {
       console.log(post.url);
     }
