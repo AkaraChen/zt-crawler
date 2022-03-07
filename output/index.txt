@@ -1,20 +1,20 @@
 简单说说手头的 Switch ;; https://blog.akr.moe/switch.html ;; 简单记录 ;; https://pic.akr.moe/IMG_20220306_095615.jpg
-PostgreSQL 笔记（一） ;; https://blog.akr.moe/pgsql-learn-1.html ;; 学习笔记 ;; https://some.image
-TypeScript 学习笔记（いち） ;; https://blog.akr.moe/ts-learn-1.html ;; 学习笔记 ;; https://some.image
+PostgreSQL 笔记（一） ;; https://blog.akr.moe/pgsql-learn-1.html ;; 学习笔记 ;; https://bing-image.vercel.app/20170221.jpg
+TypeScript 学习笔记（いち） ;; https://blog.akr.moe/ts-learn-1.html ;; 学习笔记 ;; https://bing-image.vercel.app/20170221.jpg
 今天优化了下 Hexo ;; https://blog.akr.moe/solve-hexo-warning.html ;; 简单记录 ;; https://pic.akr.moe/20220220210209.png
-把之前 notion 的笔记导出了 ;; https://blog.akr.moe/notion.html ;; 学习笔记 ;; https://some.image
-小米路由器 AX3600 固件 ;; https://www.expli.top/uncategorized/%e5%b0%8f%e7%b1%b3%e8%b7%af%e7%94%b1%e5%99%a8-ax3600-%e5%9b%ba%e4%bb%b6/ ;; 未分类 ;; https://some.image
+把之前 notion 的笔记导出了 ;; https://blog.akr.moe/notion.html ;; 学习笔记 ;; https://bing-image.vercel.app/20171029.jpg
+在使用 WLAN 联网的树莓派上安装 Proxmox VE 并创建虚拟机 ;; https://blog.iks.moe/archives/Raspberry-Pi-Proxmox-VE-setup.html ;; 无分类 ;; https://p.itxe.net/images/2021/11/26/image.png
+阿里巴巴（AS37963）国内整数 IP 段 ;; https://blog.iks.moe/archives/ips-of-alibaba-cn.html ;; 无分类 ;; https://bing-image.vercel.app/20171210.jpg
+Spimes 主题去除文章页面“随机推荐” ;; https://blog.iks.moe/archives/remove-random-recommendation-for-theme-spimes.html ;; 无分类 ;; https://bing-image.vercel.app/20170103.jpg
+站点程序迁移 ;; https://blog.iks.moe/archives/start.html ;; 无分类 ;; https://bing-image.vercel.app/20171009.jpg
+华南理工大学飞机票售票管理系统（2020）数据库配置说明 ;; https://blog.iks.moe/archives/database-configuration-description-of-atsms2020-of-scut.html ;; 无分类 ;; https://ae01.alicdn.com/kf/H60ff5ff9b3f24b60866246833b8497baP.jpg
+Typecho 迁移至 Hugo ;; https://blog.rvvc.im/posts/te2hugo ;; 无分类 ;; https://bing-image.vercel.app/20170820.jpg
+使用fly.io搭建Bitwarden ;; https://blog.rvvc.im/posts/flyio-bitwarden ;; 无分类 ;; https://bing-image.vercel.app/20170221.jpg
+OpenSSL自签证书 ;; https://blog.rvvc.im/posts/openssl-ca ;; 无分类 ;; https://bing-image.vercel.app/20161229.jpg
+Heroku部署安装Typecho ;; https://blog.rvvc.im/posts/typechoonheroku ;; 无分类 ;; https://bing-image.vercel.app/20170101.jpg
+解决 Heroku-cli 无法登陆 ;; https://blog.rvvc.im/posts/herokuclilogin ;; 无分类 ;; https://bing-image.vercel.app/20170701.jpg
+小米路由器 AX3600 固件 ;; https://www.expli.top/uncategorized/%e5%b0%8f%e7%b1%b3%e8%b7%af%e7%94%b1%e5%99%a8-ax3600-%e5%9b%ba%e4%bb%b6/ ;; 未分类 ;; https://bing-image.vercel.app/20170524.jpg
 Expliyh的美图分享-21.11.15 ;; https://www.expli.top/imgs/21-11-15/ ;; 美图壁纸 ;; https://tva1.sinaimg.cn/large/006CigpAgy1gwfz66pfhdj30lk0ud4ie.jpg
-关于转载权限 ;; https://www.expli.top/imgs/%e5%85%b3%e4%ba%8e%e8%bd%ac%e8%bd%bd%e6%9d%83%e9%99%90/ ;; 美图壁纸 ;; https://some.image
+关于转载权限 ;; https://www.expli.top/imgs/%e5%85%b3%e4%ba%8e%e8%bd%ac%e8%bd%bd%e6%9d%83%e9%99%90/ ;; 美图壁纸 ;; https://bing-image.vercel.app/20170429.jpg
 Expliyh的美图分享-21.11.13 ;; https://www.expli.top/imgs/21-11-13/ ;; 美图壁纸 ;; https://csd.mt6735.top/file/expli-def/img-share/21.11.13/%E9%8D%8B%E3%83%91%F0%9F%8D%B2-93416669-Csyday.png
 Expliyh的美图分享-21.11.12 ;; https://www.expli.top/imgs/21-11-12/ ;; 美图壁纸 ;; https://pic.rmb.bdstatic.com/bjh/ee642e2a73cac3cac5e21f06e35ab013.png
-在使用 WLAN 联网的树莓派上安装 Proxmox VE 并创建虚拟机 ;; https://blog.iks.moe/archives/Raspberry-Pi-Proxmox-VE-setup.html ;; 无分类 ;; https://p.itxe.net/images/2021/11/26/image.png
-阿里巴巴（AS37963）国内整数 IP 段 ;; https://blog.iks.moe/archives/ips-of-alibaba-cn.html ;; 无分类 ;; https://some.image
-Spimes 主题去除文章页面“随机推荐” ;; https://blog.iks.moe/archives/remove-random-recommendation-for-theme-spimes.html ;; 无分类 ;; https://some.image
-站点程序迁移 ;; https://blog.iks.moe/archives/start.html ;; 无分类 ;; https://some.image
-华南理工大学飞机票售票管理系统（2020）数据库配置说明 ;; https://blog.iks.moe/archives/database-configuration-description-of-atsms2020-of-scut.html ;; 无分类 ;; https://ae01.alicdn.com/kf/H60ff5ff9b3f24b60866246833b8497baP.jpg
-Typecho 迁移至 Hugo ;; https://blog.rvvc.im/posts/te2hugo ;; 无分类 ;; https://some.image
-使用fly.io搭建Bitwarden ;; https://blog.rvvc.im/posts/flyio-bitwarden ;; 无分类 ;; https://some.image
-OpenSSL自签证书 ;; https://blog.rvvc.im/posts/openssl-ca ;; 无分类 ;; https://some.image
-Heroku部署安装Typecho ;; https://blog.rvvc.im/posts/typechoonheroku ;; 无分类 ;; https://some.image
-解决 Heroku-cli 无法登陆 ;; https://blog.rvvc.im/posts/herokuclilogin ;; 无分类 ;; https://some.image
