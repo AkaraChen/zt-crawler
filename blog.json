@@ -502,11 +502,6 @@
   },
   { "name": "KAIX.IN", "link": "https://kaix.in/feed", "mode": "rss" },
   {
-    "name": "朝舞",
-    "link": "https://ii74.com/feed.php",
-    "mode": "rss"
-  },
-  {
     "name": "Matrix67: The Aha Moments",
     "link": "https://www.matrix67.com/blog/feed",
     "mode": "rss"
@@ -611,11 +606,6 @@
   {
     "name": "多媒体开发札记",
     "link": "https://glumes.com/index.xml",
-    "mode": "rss"
-  },
-  {
-    "name": "Josherich的博客",
-    "link": "https://www.josherich.me/feed.xml",
     "mode": "rss"
   },
   {

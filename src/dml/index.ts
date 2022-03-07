@@ -23,7 +23,7 @@ const app = async () => {
     try {
       pool.query(
         `INSERT INTO zhutian.web_content (name, link, category, cover) 
-    VALUES ('${post.title}'::varchar, '${post.url}'::varchar, '${post.category}'::varchar, '${post.image}'::varchar)`
+    VALUES ('${post.title.replace('\'',"”")}'::varchar, '${post.url}'::varchar, '${post.category}'::varchar, '${post.image}'::varchar)`
       );
     } catch {
       console.log(post.url);
