@@ -2,19 +2,16 @@
   {
     "name": "Akara's Blog",
     "link": "https://blog.akr.moe/atom.xml",
-    "description": "Hexo RSS",
     "mode": "rss"
   },
   {
     "name": "请叫我旗舰处理器",
     "link": "https://www.expli.top",
-    "description": "WordPress Mode",
     "mode": "wp"
   },
   {
     "name": "iks",
     "link": "https://blog.iks.moe/feed/atom",
-    "description": "Typecho RSS",
     "mode": "rss"
   },
   {

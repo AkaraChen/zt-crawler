@@ -1,8 +1,8 @@
-import { readFileSync } from "fs";
 import { blogMeta } from "./blog";
 import { route } from "./route";
+import { init } from "./util/file";
 
-console.log(readFileSync("logo.txt", "utf-8"));
+init();
 
 blogMeta().forEach((item) => {
   route(item);

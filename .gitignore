@@ -126,9 +126,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# output File
-output/*.txt
-
 # vscode code counter plugin
 .VSCodeCounter/*
 
