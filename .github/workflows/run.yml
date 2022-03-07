@@ -14,9 +14,9 @@ jobs:
     - name: set up environment variable
       run: |
         export PGHOST = ${{ secrets.PGHOST }}
-        export PGUSER = ${{ secret.PGUSER }}
-        export PGDATABASE = ${{ secret.PGDATABASE }}
-        export PGPASSWORD = ${{ secret.PGPASSWORD }"
+        export PGUSER = ${{ secrets.PGUSER }}
+        export PGDATABASE = ${{ secrets.PGDATABASE }}
+        export PGPASSWORD = ${{ secrets.PGPASSWORD }"
     - uses: actions/checkout@v2
     - name: Install Node
       uses: actions/setup-node@v2
