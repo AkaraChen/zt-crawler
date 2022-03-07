@@ -27,5 +27,6 @@ jobs:
         export PGUSER=${{ secrets.PGUSER }}
         export PGDATABASE=${{ secrets.PGDATABASE }}
         export PGPASSWORD=${{ secrets.PGPASSWORD }}
+        export NODE_TLS_REJECT_UNAUTHORIZED=0
         pnpm run dev
         pnpm run dml
