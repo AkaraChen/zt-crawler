@@ -18,6 +18,7 @@ const createPool = async () => {
 
 const app = async () => {
   const pool = await createPool();
+  if (!posts) return;
   posts.forEach((post) => {
     try {
       pool.query(
