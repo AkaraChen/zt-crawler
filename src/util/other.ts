@@ -15,7 +15,9 @@ function getImage(content: string): string {
       return list[Math.floor(Math.random() * list.length)];
     }
     let src = arr[0].match(srcReg);
-    return src[0].slice(5, src[0].length - 1);
+    let result =  src[0].slice(5, src[0].length - 1);
+    if (result.slice(3) !== 'http') return list[Math.floor(Math.random() * list.length)];
+    return result;
   } catch (error) {
     return list[Math.floor(Math.random() * list.length)];
   }
