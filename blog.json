@@ -51,11 +51,6 @@
   },
   { "name": "DIYGod", "link": "https://diygod.me/atom.xml", "mode": "rss" },
   {
-    "name": "池建强",
-    "link": "https://macshuo.com/?feed=rss2",
-    "mode": "rss"
-  },
-  {
     "name": "ShrekShao",
     "link": "https://shrekshao.github.io/feed.xml",
     "mode": "rss"
@@ -685,7 +680,7 @@
   },
   {
     "name": "Ahonn's Blog",
-    "link": "https://www.ahonn.me/atom.xml",
+    "link": "https://www.yuexun.me/rss.xml",
     "mode": "rss"
   },
   {

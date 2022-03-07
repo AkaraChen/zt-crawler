@@ -24,8 +24,8 @@ const app = async () => {
         `INSERT INTO zhutian.web_content (name, link, category, cover) 
     VALUES ('${post.title}'::varchar, '${post.url}'::varchar, '${post.category}'::varchar, '${post.image}'::varchar)`
       );
-    } catch (err) {
-      console.log(err);
+    } catch {
+      console.log(post.url);
     }
   });
 };
