@@ -1,4 +1,4 @@
-import { appendFileSync, unlinkSync, readFileSync } from "fs";
+import { appendFileSync, unlinkSync, readFileSync, existsSync } from "fs";
 import { Post } from "../model/post";
 import { Blog } from "../model/blog";
 
@@ -13,8 +13,8 @@ function invalid(blog: Blog) {
 }
 
 function init() {
-  unlinkSync("output/index.txt");
-  unlinkSync("output/invalid.txt");
+  if (existsSync("output/index.txt")) unlinkSync("output/index.txt");
+  if (existsSync("output/invalid.txt")) unlinkSync("output/invalid.txt");
   console.log(readFileSync("logo.txt", "utf-8"));
 }
 
