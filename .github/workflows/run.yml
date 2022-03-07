@@ -13,10 +13,10 @@ jobs:
     steps:
     - name: set up environment variable
       run: |
-        PGHOST = { secrets.PGHOST }
-        PGUSER = { secret.PGUSER }
-        PGDATABASE = { secret.PGDATABASE }
-        PGPASSWORD = { secret.PGPASSWORD }
+        export PGHOST = { secrets.PGHOST }
+        export PGUSER = { secret.PGUSER }
+        export PGDATABASE = { secret.PGDATABASE }
+        export PGPASSWORD = { secret.PGPASSWORD }
     - uses: actions/checkout@v2
     - name: Install Node
       uses: actions/setup-node@v2
