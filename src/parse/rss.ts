@@ -44,7 +44,7 @@ function get(blog: Blog) {
       });
     } catch (error) {
       invalid(blog);
-      throw error;
+      return;
     }
   })();
 }
