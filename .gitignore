@@ -133,3 +133,6 @@ dist
 .idea/*
 pnpm-lock.yaml
 pnpm-lock.yaml
+
+# test output
+output/index.txt
