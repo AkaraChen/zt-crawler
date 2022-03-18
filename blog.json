@@ -18,5 +18,10 @@
     "name": "colsro",
     "link": "https://blog.cols.ro/feed",
     "mode": "rss"
+  },
+  {
+    "name": "拉面馆老板娘",
+    "link": "https://ibexlwy.com/index.php/feed/atom/",
+    "mode": "rss"
   }
 ]
