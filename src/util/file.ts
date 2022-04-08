@@ -3,7 +3,7 @@ import { Post } from "../model/post";
 import { Blog } from "../model/blog";
 
 function add(post: Post) {
-  let text = `${post.title} ;; ${post.url} ;; ${post.category} ;; ${post.image}\n`;
+  let text = `${post.title} ;; ${post.url} ;; ${post.category}\n`;
   appendFileSync("output/index.txt", text, "utf-8");
 }
 

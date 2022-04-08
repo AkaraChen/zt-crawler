@@ -3,7 +3,6 @@ import { Blog } from "../model/blog";
 import { Post } from "../model/post";
 import { config } from "../config";
 import { add, invalid } from "../util/file";
-import { getImage } from "../util/other";
 
 function get(blog: Blog) {
   let index = 0;
@@ -15,11 +14,7 @@ function get(blog: Blog) {
       let category: string;
       feed.items.forEach((item) => {
         if (index >= config.perUser) return;
-        if (item.link instanceof Array) {
-          link = item.link[0].href;
-        } else {
-          link = item.link;
-        }
+        link = item.link instanceof Array ? item.link[0].href : item.link
         if (item.category.length == 0) {
           category = "无分类";
         } else {
@@ -37,7 +32,6 @@ function get(blog: Blog) {
             item.title,
             link,
             category,
-            !item.thumbnail ? getImage(item.content) : item.thumbnail
           )
         );
         index++;

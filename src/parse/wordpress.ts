@@ -3,7 +3,7 @@ import { Blog } from "../model/blog";
 import { config } from "../config";
 import { Post } from "../model/post";
 import { add, invalid } from "../util/file";
-import { getImage, removeSlash } from "../util/other";
+import { removeSlash } from "../util/other";
 import request from "sync-request";
 
 function getCategoryName(blog: Blog, category: number): string {
@@ -31,7 +31,6 @@ function get(blog: Blog) {
                 item.title.rendered,
                 item.link,
                 category,
-                getImage(item.content.rendered)
               )
             );
             index++;
