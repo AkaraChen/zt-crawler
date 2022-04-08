@@ -20,7 +20,7 @@ function get(blog: Blog) {
           item.category instanceof Array ?
             item.category[0] instanceof Object ? item.category[0].term : item.category[0]
             : item.category;
-        description = item.content.slice(30)
+        description = item.content.slice(0, 30).replace('\n', '')
         add(new Post(item.title, link, category, description));
         index++;
       });

@@ -26,7 +26,7 @@ function get(blog: Blog) {
           response.data.forEach((item: any) => {
             if (index >= config.perUser) return;
             let category = getCategoryName(blog, item.categories[0]);
-            let description = item.content.rendered;
+            let description = item.content.rendered.slice(0, 30).replace('\n', '');
             add(new Post(item.title.rendered, item.link, category, description));
             index++;
           });
