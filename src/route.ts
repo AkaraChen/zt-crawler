@@ -8,6 +8,8 @@ let route = (item: Blog) => {
       return rssget(item);
     case "wp":
       return wpget(item);
+    default:
+      return;
   }
 };
 
