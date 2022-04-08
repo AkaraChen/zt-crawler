@@ -26,13 +26,8 @@ function get(blog: Blog) {
           response.data.forEach((item: any) => {
             if (index >= config.perUser) return;
             let category = getCategoryName(blog, item.categories[0]);
-            add(
-              new Post(
-                item.title.rendered,
-                item.link,
-                category,
-              )
-            );
+            let description = item.content.rendered;
+            add(new Post(item.title.rendered, item.link, category, description));
             index++;
           });
         } catch (error) {

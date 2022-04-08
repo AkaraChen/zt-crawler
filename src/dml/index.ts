@@ -8,7 +8,7 @@ const rows = file.split("\n");
 rows.forEach((row) => {
   let meta = row.split(" ;; ");
   if (meta[0] == "") return;
-  posts.push(new Post(meta[0], meta[1], meta[2]));
+  posts.push(new Post(meta[0], meta[1], meta[2], meta[3]));
 });
 
 const createPool = async () => {
@@ -23,9 +23,9 @@ const app = async () => {
     try {
       const query = {
         name: "fetch-user",
-        text: `INSERT INTO zhutian.web_content (name, link, category) 
-        VALUES ($1::varchar, $2::varchar, $3::varchar)`,
-        values: [post.title, post.url, post.category],
+        text: `INSERT INTO zhutian.web_content (name, link, category, description) 
+        VALUES ($1::varchar, $2::varchar, $3::varchar, $4::varchar)`,
+        values: [post.title, post.url, post.category, post.description],
       };
       pool.query(query);
     } catch {

@@ -12,6 +12,7 @@ function get(blog: Blog) {
       feed = await parse(blog.link, {});
       let link: string;
       let category: string;
+      let description: string
       feed.items.forEach((item) => {
         if (index >= config.perUser) return;
         link = item.link instanceof Array ? item.link[0].href : item.link
@@ -19,13 +20,8 @@ function get(blog: Blog) {
           item.category instanceof Array ?
             item.category[0] instanceof Object ? item.category[0].term : item.category[0]
             : item.category;
-        add(
-          new Post(
-            item.title,
-            link,
-            category,
-          )
-        );
+        description = item.content.slice(30)
+        add(new Post(item.title, link, category, description));
         index++;
       });
     } catch (error) {
