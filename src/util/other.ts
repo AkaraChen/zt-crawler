@@ -4,7 +4,7 @@ function removeSlash(link: string) {
 }
 
 function getDescription(str) {
-  return str.replace(/<[^>]+>/g, "").replace('\n', '').slice(0, 30);
+  return str.replace(/<[^>]+>/g, "").replace('\n', '').slice(0, 150).trim();
 }
 
 export { removeSlash, getDescription };
