@@ -15,18 +15,10 @@ function get(blog: Blog) {
       feed.items.forEach((item) => {
         if (index >= config.perUser) return;
         link = item.link instanceof Array ? item.link[0].href : item.link
-        if (item.category.length == 0) {
-          category = "无分类";
-        } else {
-          if (item.category instanceof Array) {
-            category =
-              item.category[0] instanceof Object
-                ? item.category[0].term
-                : item.category[0];
-          } else {
-            category = item.category;
-          }
-        }
+        category = item.category.length == 0 ? "无分类" :
+          item.category instanceof Array ?
+            item.category[0] instanceof Object ? item.category[0].term : item.category[0]
+            : item.category;
         add(
           new Post(
             item.title,
