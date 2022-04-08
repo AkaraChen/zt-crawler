@@ -3,6 +3,7 @@ import { Blog } from "../model/blog";
 import { Post } from "../model/post";
 import { config } from "../config";
 import { add, invalid } from "../util/file";
+import { getDescription } from "../util/other";
 
 function get(blog: Blog) {
   let index = 0;
@@ -20,7 +21,7 @@ function get(blog: Blog) {
           item.category instanceof Array ?
             item.category[0] instanceof Object ? item.category[0].term : item.category[0]
             : item.category;
-        description = item.content.slice(0, 30).replace('\n', '')
+        description = getDescription(item.content)
         add(new Post(item.title, link, category, description));
         index++;
       });

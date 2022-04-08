@@ -3,7 +3,7 @@ import { Blog } from "../model/blog";
 import { config } from "../config";
 import { Post } from "../model/post";
 import { add, invalid } from "../util/file";
-import { removeSlash } from "../util/other";
+import { getDescription, removeSlash } from "../util/other";
 import request from "sync-request";
 
 function getCategoryName(blog: Blog, category: number): string {
@@ -26,7 +26,7 @@ function get(blog: Blog) {
           response.data.forEach((item: any) => {
             if (index >= config.perUser) return;
             let category = getCategoryName(blog, item.categories[0]);
-            let description = item.content.rendered.slice(0, 30).replace('\n', '');
+            let description = getDescription(item.content.rendered);
             add(new Post(item.title.rendered, item.link, category, description));
             index++;
           });

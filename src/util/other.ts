@@ -3,4 +3,8 @@ function removeSlash(link: string) {
   return link;
 }
 
-export { removeSlash };
+function getDescription(str) {
+  return str.replace(/<[^>]+>/g, "").replace('\n', '').slice(0, 30);
+}
+
+export { removeSlash, getDescription };
