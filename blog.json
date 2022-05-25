@@ -13,10 +13,5 @@
     "name": "iks",
     "link": "https://blog.iks.moe/feed/atom",
     "mode": "rss"
-  },
-  {
-    "name": "colsro",
-    "link": "https://blog.cols.ro/index.xml",
-    "mode": "rss"
   }
 ]
